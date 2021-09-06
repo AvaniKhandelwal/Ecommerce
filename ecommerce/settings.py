@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-4h1419o9jw9xiiv@e-wqf#l-rj%1q^p$^ek-2h#z&d5w!_j79-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','onlinedjstore.herkuapp.com']
 
 
 # Application definition
